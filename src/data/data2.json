@@ -1,0 +1,4436 @@
+{
+	"results": [{
+		"mintAddress": "HGJpS4HA4P9whvBELTkivYWZBVHPWVXteEWzWTbYPFwz",
+		"supply": 1,
+		"title": "Claynosaurz #6856",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 45.2,
+		"escrowPubkey": "98ocpww3rQX53eEiUMkAxiEB6VvPohTAfJsaYmGKqHpj",
+		"owner": "Hy7noZA81GgJEqqji4HRg5MfGXmZPdBzSpGpAsojs4ki",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "3ZBz7DK3QwbePvcpVcFodP72f91stvVxPYSbXZmGvyJV",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeiatnlx76um3cr6zl5ovzargmbpmjcwtymcojty3lblpst73v62yni/6855.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Bronto"
+		}, {
+			"trait_type": "Skin",
+			"value": "Savanna"
+		}, {
+			"trait_type": "Color",
+			"value": "Aqua"
+		}, {
+			"trait_type": "Motion",
+			"value": "Trot"
+		}, {
+			"trait_type": "Mood",
+			"value": "Sad"
+		}, {
+			"trait_type": "Background",
+			"value": "Mint"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "1"
+		}, {
+			"trait_type": "Back",
+			"value": "Off"
+		}, {
+			"trait_type": "Belly",
+			"value": "On"
+		}, {
+			"trait_type": "Pattern",
+			"value": "Off"
+		}, {
+			"trait_type": "Details",
+			"value": "Off"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeiatnlx76um3cr6zl5ovzargmbpmjcwtymcojty3lblpst73v62yni/6855.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeia3mdxshnkq7l2wzislkztiwlnd43s3asyyepufemay7gppz6fdua/6855.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 6487
+			},
+			"moonrank": {
+				"rank": 5534,
+				"absolute_rarity": 5534,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-03-17T01:33:16.769Z",
+			"slot": 206699958
+		},
+		"lastSalePrice": 28300000000,
+		"lastSalePriceWithFees": 28300000000,
+		"createdAt": "2023-07-21T19:09:37.995Z",
+		"updatedAt": "2023-07-21T19:09:37.995Z"
+	}, {
+		"mintAddress": "HEqNzYbQirZ8ukHs85ZetwTEvtYGrDArqxhFQCtVUGot",
+		"supply": 1,
+		"title": "Claynosaurz #2475",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 200,
+		"escrowPubkey": "Bhcuh64wfYBi1JrbsUcpYSDvRHbPzhdBhEsuwiQmgqRq",
+		"owner": "3Afw3cCxHkhngihdeAxu4rFHMkTLGT1GgD9dx5uSW8Y6",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "4A2ZNXAhiQyoqnWQYkYSXK9E85BbLx1RpK4rUUKDogEH",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeia6irrixaof2m5ji76c3xqlj4wbwxpgl2d2tmkzp2m4stvxok2hee/2474.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Stego"
+		}, {
+			"trait_type": "Skin",
+			"value": "Apres"
+		}, {
+			"trait_type": "Color",
+			"value": "Aqua"
+		}, {
+			"trait_type": "Motion",
+			"value": "Walk"
+		}, {
+			"trait_type": "Mood",
+			"value": "Smug"
+		}, {
+			"trait_type": "Background",
+			"value": "Dune"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "2"
+		}, {
+			"trait_type": "Back",
+			"value": "Off"
+		}, {
+			"trait_type": "Belly",
+			"value": "Off"
+		}, {
+			"trait_type": "Pattern",
+			"value": "On"
+		}, {
+			"trait_type": "Details",
+			"value": "On"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeia6irrixaof2m5ji76c3xqlj4wbwxpgl2d2tmkzp2m4stvxok2hee/2474.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeif2sb3yhb6juqd3nhgeotkt5ibwoav2uwubzm7swnekvzjvkhagly/2474.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 701
+			},
+			"moonrank": {
+				"rank": 1846,
+				"absolute_rarity": 1846,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-04-06T15:35:29.507Z",
+			"slot": 206764290
+		},
+		"createdAt": "2023-07-22T03:07:14.264Z",
+		"updatedAt": "2023-07-22T03:07:14.264Z"
+	}, {
+		"mintAddress": "HczwE75Bn2X7Krn7m7DFjg9Dvcc8wdsLfxaNvMBoeYTH",
+		"supply": 1,
+		"title": "Claynosaurz #6279",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 92,
+		"escrowPubkey": "9LPBUp3ehw81F682Fkvd1Q46BhwHBURTeDGn1ibMaLX9",
+		"owner": "7NjYvd97pogzhswj4aefeC2RX86ndt8cmuPPccGa4cs5",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "GdWDgwkUV2Lbihnq5yJb6AVCDzFYywo48fkFZyNsunnC",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeihk6lvfrnn6jgqp732cayvwpx37xmd2ayqdpe5bf5qdlpoqgyq4pa/6278.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Trice"
+		}, {
+			"trait_type": "Skin",
+			"value": "Mirage"
+		}, {
+			"trait_type": "Color",
+			"value": "Mist"
+		}, {
+			"trait_type": "Motion",
+			"value": "Idle"
+		}, {
+			"trait_type": "Mood",
+			"value": "Excited"
+		}, {
+			"trait_type": "Background",
+			"value": "Mint"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "2"
+		}, {
+			"trait_type": "Back",
+			"value": "On"
+		}, {
+			"trait_type": "Belly",
+			"value": "Off"
+		}, {
+			"trait_type": "Pattern",
+			"value": "Off"
+		}, {
+			"trait_type": "Details",
+			"value": "On"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeihk6lvfrnn6jgqp732cayvwpx37xmd2ayqdpe5bf5qdlpoqgyq4pa/6278.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeiacstknvbrvkwsh4pkvlkrmfxbabkesrxkeyvikp6cld6cu6ybpzq/6278.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 1590
+			},
+			"moonrank": {
+				"rank": 3871,
+				"absolute_rarity": 3871,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-05-01T00:15:30.413Z",
+			"slot": 206704963
+		},
+		"lastSalePrice": 70003939360,
+		"lastSalePriceWithFees": 74202047780,
+		"createdAt": "2023-07-21T19:49:49.444Z",
+		"updatedAt": "2023-07-21T19:49:49.444Z"
+	}, {
+		"mintAddress": "HCpBwSHecWZuJm3R28oXySe2hTYDaUd4ASuYpJ7TxKno",
+		"supply": 1,
+		"title": "Claynosaurz #4501",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 42,
+		"escrowPubkey": "FWQWA2ob5T1w7kSLXMcRKSfnZ2PezRfFFvAHg5YpwWTQ",
+		"owner": "9giXh2qQPWQpervzBFbQT1i7Rghr9XZeebdrcMiDw6Cb",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "8c9D1k45nMN6TvmaUc6eGEKffckRuYkacyXai4dSwb9R",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeibbozogcuviafayale24s7z6debrzrei6lx2x6vrdoe4tzyxang7e/4500.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Stego"
+		}, {
+			"trait_type": "Skin",
+			"value": "Savanna"
+		}, {
+			"trait_type": "Color",
+			"value": "Mist"
+		}, {
+			"trait_type": "Motion",
+			"value": "Trot"
+		}, {
+			"trait_type": "Mood",
+			"value": "Sad"
+		}, {
+			"trait_type": "Background",
+			"value": "Lavender"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "1"
+		}, {
+			"trait_type": "Back",
+			"value": "Off"
+		}, {
+			"trait_type": "Belly",
+			"value": "Off"
+		}, {
+			"trait_type": "Pattern",
+			"value": "Off"
+		}, {
+			"trait_type": "Details",
+			"value": "On"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeibbozogcuviafayale24s7z6debrzrei6lx2x6vrdoe4tzyxang7e/4500.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeiflkxk3w2cey4lzpcxux4af4qw23zvmqpfp67bbp6t67tec5gxysu/4500.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 1230
+			},
+			"moonrank": {
+				"rank": 2062,
+				"absolute_rarity": 2062,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-07-13T19:46:38.026Z",
+			"slot": 206427735
+		},
+		"lastSalePrice": 29390000000,
+		"lastSalePriceWithFees": 29390000000,
+		"createdAt": "2023-07-20T09:08:32.005Z",
+		"updatedAt": "2023-07-20T09:08:32.005Z"
+	}, {
+		"mintAddress": "HB2gBWDVs5RBVrvFaSCz9UfyTfgWbqoPYYsgYvvH3shf",
+		"supply": 1,
+		"title": "Claynosaurz #1154",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 60,
+		"escrowPubkey": "5bizGfdS7UktT1yVgbxNKNo1N94vnM5q2BbRFPugCZjR",
+		"owner": "FRcfhfbffT6qyHwQRWAJAK2PoiEQS9AEgURtXrbYexUB",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "Hbv5oNrikqw2ehuwZqmgBDnurTe24dE2qYK3qbRt9W5f",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeiaf5gx7osberc232qk6q22izmulus5uatzgecqc4emfap62g5rqvu/1153.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Bronto"
+		}, {
+			"trait_type": "Skin",
+			"value": "Mirage"
+		}, {
+			"trait_type": "Color",
+			"value": "Aqua"
+		}, {
+			"trait_type": "Motion",
+			"value": "Slow Walk"
+		}, {
+			"trait_type": "Mood",
+			"value": "Scared"
+		}, {
+			"trait_type": "Background",
+			"value": "Dune"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "2"
+		}, {
+			"trait_type": "Back",
+			"value": "On"
+		}, {
+			"trait_type": "Belly",
+			"value": "Off"
+		}, {
+			"trait_type": "Pattern",
+			"value": "Off"
+		}, {
+			"trait_type": "Details",
+			"value": "On"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeiaf5gx7osberc232qk6q22izmulus5uatzgecqc4emfap62g5rqvu/1153.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeifeflsihnrywsljqba5wefkmpjzs5y3i4thhptqpx5cazdzzoi72m/1153.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 9039
+			},
+			"moonrank": {
+				"rank": 9157,
+				"absolute_rarity": 9157,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-07-02T14:17:56.314Z",
+			"slot": 206611303
+		},
+		"lastSalePrice": 49623649750,
+		"lastSalePriceWithFees": 49499900000,
+		"createdAt": "2023-07-21T08:08:25.662Z",
+		"updatedAt": "2023-07-21T08:08:25.662Z"
+	}, {
+		"mintAddress": "H6uzD5koVTHwUqAJAhN1zyeSQWyEfPeht3Fe7uDawaEr",
+		"supply": 1,
+		"title": "Claynosaurz #9149",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 70,
+		"escrowPubkey": "EAkcmcyyCnjEHiRKrXszZLseL4TJVQjJ2gpstB48LG3V",
+		"owner": "5xwE8LWtmDazKpf2v7Dx2p48wPcKJ9EVLZXRxCvLLjr7",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "ECaZBHSdshE1uv58xMoKymxFDhuEbJ1to6waqZfhEFFZ",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeibzkqj5sksnsszqd2gxuso74f5rggiqowtfx7w72kaycfl5daolzy/9148.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Rex"
+		}, {
+			"trait_type": "Skin",
+			"value": "Mirage"
+		}, {
+			"trait_type": "Color",
+			"value": "Volcanic"
+		}, {
+			"trait_type": "Motion",
+			"value": "Idle"
+		}, {
+			"trait_type": "Mood",
+			"value": "Confident"
+		}, {
+			"trait_type": "Background",
+			"value": "Sky"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "2"
+		}, {
+			"trait_type": "Back",
+			"value": "Off"
+		}, {
+			"trait_type": "Belly",
+			"value": "Off"
+		}, {
+			"trait_type": "Pattern",
+			"value": "On"
+		}, {
+			"trait_type": "Details",
+			"value": "On"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeibzkqj5sksnsszqd2gxuso74f5rggiqowtfx7w72kaycfl5daolzy/9148.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeifeflsihnrywsljqba5wefkmpjzs5y3i4thhptqpx5cazdzzoi72m/9148.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 9976
+			},
+			"moonrank": {
+				"rank": 9930,
+				"absolute_rarity": 9930,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-05-26T01:20:27.639Z",
+			"slot": 206826166
+		},
+		"lastSalePrice": 718016766,
+		"lastSalePriceWithFees": 38413897028,
+		"createdAt": "2023-07-22T10:39:14.037Z",
+		"updatedAt": "2023-07-22T10:39:14.037Z"
+	}, {
+		"mintAddress": "H5TWA3MhGoAWyQC9vzEJqBx3pgv2npMsuWrpEvZSGdar",
+		"supply": 1,
+		"title": "Claynosaurz #5905",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 132,
+		"escrowPubkey": "FZA9VYe4qn24ZTJvGA5M89faHwHZR476cucZcubqdAJT",
+		"owner": "FKZsCyTzPkBPeFnXrHtvuKPuGu5gWRywiHL1WoiABGeG",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "GrQDKPCo5CFammxK9Bwx1WdwySySHoDLmQRt3prdBCSS",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeichryo3skywlrp53hzq5ywux57fc2tgchdfrdxcuyys7kifqsdnmi/5904.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Bronto"
+		}, {
+			"trait_type": "Skin",
+			"value": "Apres"
+		}, {
+			"trait_type": "Color",
+			"value": "Tropic"
+		}, {
+			"trait_type": "Motion",
+			"value": "Idle"
+		}, {
+			"trait_type": "Mood",
+			"value": "Bored"
+		}, {
+			"trait_type": "Background",
+			"value": "Dune"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "2"
+		}, {
+			"trait_type": "Back",
+			"value": "Off"
+		}, {
+			"trait_type": "Belly",
+			"value": "Off"
+		}, {
+			"trait_type": "Pattern",
+			"value": "On"
+		}, {
+			"trait_type": "Details",
+			"value": "On"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeichryo3skywlrp53hzq5ywux57fc2tgchdfrdxcuyys7kifqsdnmi/5904.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeih4qw3iln6hhmemjxy6w2taksdbqa7szf3ronxi7fozqi6iwzmz4a/5904.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 629
+			},
+			"moonrank": {
+				"rank": 1530,
+				"absolute_rarity": 1530,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-07-07T09:04:36.756Z",
+			"slot": 206428925
+		},
+		"lastSalePrice": 27000000000,
+		"lastSalePriceWithFees": 27000000000,
+		"createdAt": "2023-07-20T09:17:24.511Z",
+		"updatedAt": "2023-07-20T09:17:24.511Z"
+	}, {
+		"mintAddress": "H3zNHxjuwChXHcfJu9jgaRATsRSGQsMbrkAbsDTtdn4d",
+		"supply": 1,
+		"title": "Claynosaurz #3704",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 80,
+		"escrowPubkey": "8wiW44VjfHW1fbUm8PHgwErz9FrFjmzp8yMsBg91wr45",
+		"owner": "GTqNSMWJXsNKFacKBayEVGYu6BdiFAkpf1TpuWNsCcMo",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "DiB7cUDTgwbzZ5J7tC6QNemPsAmQsJBFu3v6JxYq9fig",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeibpedsysvv77iqtx2cbi4u372d7jne2yx3l6ul25vbkzszmoymnaa/3703.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Rex"
+		}, {
+			"trait_type": "Skin",
+			"value": "Apres"
+		}, {
+			"trait_type": "Color",
+			"value": "Volcanic"
+		}, {
+			"trait_type": "Motion",
+			"value": "Walk"
+		}, {
+			"trait_type": "Mood",
+			"value": "Smug"
+		}, {
+			"trait_type": "Background",
+			"value": "Lavender"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "2"
+		}, {
+			"trait_type": "Back",
+			"value": "Off"
+		}, {
+			"trait_type": "Belly",
+			"value": "Off"
+		}, {
+			"trait_type": "Pattern",
+			"value": "On"
+		}, {
+			"trait_type": "Details",
+			"value": "On"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeibpedsysvv77iqtx2cbi4u372d7jne2yx3l6ul25vbkzszmoymnaa/3703.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeigk5h6lmegzwpujz2gguuqoj3hlgslux4f54wq242urchbzmhbbaq/3703.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 824
+			},
+			"moonrank": {
+				"rank": 2621,
+				"absolute_rarity": 2621,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-07-19T22:54:03.510Z",
+			"slot": 206695165
+		},
+		"lastSalePrice": 27500000000,
+		"lastSalePriceWithFees": 27500000000,
+		"createdAt": "2023-07-21T18:33:05.820Z",
+		"updatedAt": "2023-07-21T18:33:05.820Z"
+	}, {
+		"mintAddress": "GZfCeqJ8tfVVSajQQYCXPen8SWWboX5vvUy9rpb3voww",
+		"supply": 1,
+		"title": "Claynosaurz #1961",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 69,
+		"escrowPubkey": "3szULsVn1AJzMZi6ZSGrPZDs5utM3fRM3GZq7m9fmGHo",
+		"owner": "EbnamPvTC3njZoTrzeUiFUCPLPtSue68QrDUni2e4vFE",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "6v5CfVKLUQRDzs5u9jxc6atgkrfnz82dAXWXfJPBguVx",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeicdtav77eqhtqjdivf24zvad5avmlebfxfcaytar6trsjqdeeerbu/1960.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Stego"
+		}, {
+			"trait_type": "Skin",
+			"value": "Toxic"
+		}, {
+			"trait_type": "Color",
+			"value": "Volcanic"
+		}, {
+			"trait_type": "Motion",
+			"value": "Gallop"
+		}, {
+			"trait_type": "Mood",
+			"value": "Scared"
+		}, {
+			"trait_type": "Background",
+			"value": "Sky"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "1"
+		}, {
+			"trait_type": "Back",
+			"value": "Off"
+		}, {
+			"trait_type": "Belly",
+			"value": "Off"
+		}, {
+			"trait_type": "Pattern",
+			"value": "On"
+		}, {
+			"trait_type": "Details",
+			"value": "Off"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeicdtav77eqhtqjdivf24zvad5avmlebfxfcaytar6trsjqdeeerbu/1960.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeib5q3uix47p2x667y5yvl2mfklnonpkxnxo227g5bkcpzrucs4xsm/1960.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 2346
+			},
+			"moonrank": {
+				"rank": 3461,
+				"absolute_rarity": 3461,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-07-19T21:03:56.191Z",
+			"slot": 206568189
+		},
+		"lastSalePrice": 71928000000,
+		"lastSalePriceWithFees": 72000000000,
+		"createdAt": "2023-07-21T02:51:35.089Z",
+		"updatedAt": "2023-07-21T02:51:35.089Z"
+	}, {
+		"mintAddress": "Gx9xR7Sjt44axa8L4ZHuQrATx2mXs1ucBXh8w5z94LES",
+		"supply": 1,
+		"title": "Claynosaurz #9472",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 60,
+		"escrowPubkey": "DhCiPZyf4EUsUHowgBiSqs5i2kvhgrKcwDejWAx42xvp",
+		"owner": "49ziAEY8UfPzLX2S1mv28Mi9Y6GwiZiKy9aUjjhPRYJB",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "G15ANdFKnpgGQNvGBHJjmsFaM1kxiJbPnnjQa1F8Y7R4",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeigl5fquoseobbanahhb2azvrq2leivmqwcbyrlkx2eeljcsc57wwi/9471.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Stego"
+		}, {
+			"trait_type": "Skin",
+			"value": "Savanna"
+		}, {
+			"trait_type": "Color",
+			"value": "Spring"
+		}, {
+			"trait_type": "Motion",
+			"value": "Walk"
+		}, {
+			"trait_type": "Mood",
+			"value": "Happy"
+		}, {
+			"trait_type": "Background",
+			"value": "Salmon"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "1"
+		}, {
+			"trait_type": "Back",
+			"value": "On"
+		}, {
+			"trait_type": "Belly",
+			"value": "Off"
+		}, {
+			"trait_type": "Pattern",
+			"value": "Off"
+		}, {
+			"trait_type": "Details",
+			"value": "Off"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeigl5fquoseobbanahhb2azvrq2leivmqwcbyrlkx2eeljcsc57wwi/9471.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeicreytlc5gw6to6kqkdxruocguwphizi7wq4fgvbedkj5rticqeie/9471.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 4608
+			},
+			"moonrank": {
+				"rank": 5422,
+				"absolute_rarity": 5422,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-04-18T15:07:22.862Z",
+			"slot": 206814256
+		},
+		"lastSalePrice": 43912000000,
+		"lastSalePriceWithFees": 44000000000,
+		"createdAt": "2023-07-22T09:11:04.560Z",
+		"updatedAt": "2023-07-22T09:11:04.560Z"
+	}, {
+		"mintAddress": "Gwk3Ujvr9aQbvtuBLF4zBEaRxGX3QkszSfwbENhYPoF8",
+		"supply": 1,
+		"title": "Claynosaurz #1198",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 95,
+		"escrowPubkey": "5zEVDx3oyLqrQ5LMBxq1C9fQkXqLYJy8RBPYt1z5nTGy",
+		"owner": "9HzAhxS3PHZUHynKDUQQKWKAYtW8bnz2QzenWWjb8HYi",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "9im9Kz7iCJampUhi7niyv3kt2Q5NBvJQjmEiW43A3E6",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeigbksu76a5dpizwf3mpfzl3h35xenrczytqqehu7xzw7nce2uuzfa/1197.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Bronto"
+		}, {
+			"trait_type": "Skin",
+			"value": "Toxic"
+		}, {
+			"trait_type": "Color",
+			"value": "Spring"
+		}, {
+			"trait_type": "Motion",
+			"value": "Gallop"
+		}, {
+			"trait_type": "Mood",
+			"value": "Smug"
+		}, {
+			"trait_type": "Background",
+			"value": "Salmon"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "1"
+		}, {
+			"trait_type": "Back",
+			"value": "On"
+		}, {
+			"trait_type": "Belly",
+			"value": "Off"
+		}, {
+			"trait_type": "Pattern",
+			"value": "Off"
+		}, {
+			"trait_type": "Details",
+			"value": "Off"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeigbksu76a5dpizwf3mpfzl3h35xenrczytqqehu7xzw7nce2uuzfa/1197.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeif7qqtimrw7ww6q6yaypv7tohxmldexxc56uy32m5r5j26nysvvte/1197.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 1468
+			},
+			"moonrank": {
+				"rank": 1302,
+				"absolute_rarity": 1302,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-04-14T07:10:33.555Z",
+			"slot": 206621033
+		},
+		"lastSalePrice": 74625000000,
+		"lastSalePriceWithFees": 75000000000,
+		"createdAt": "2023-07-21T09:20:22.912Z",
+		"updatedAt": "2023-07-21T09:20:22.912Z"
+	}, {
+		"mintAddress": "Gr9TQVMeXS6FszFRutmYH1WBCjWrTVNhhREDvuFwmJ52",
+		"supply": 1,
+		"title": "Claynosaurz #3560",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 59.99,
+		"escrowPubkey": "EJHvrwkPwJ2zM3vuXYSnmp6C4uWitzxtTkCdEZqxyEdg",
+		"owner": "Ew3K2KEtCcAnye5RmL92WP1bK16DjrcMjXcH3f5JNHy6",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "E7r3Qdj77ndfcxEgfkH7cjTLpHxW1gbubqqTRWMp4gXZ",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeifw45kyevm7q7rawwnq6ubtku4gxvqfamdyyzkj3dn6c3eidd6xee/3559.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Raptor"
+		}, {
+			"trait_type": "Skin",
+			"value": "Cristalline"
+		}, {
+			"trait_type": "Color",
+			"value": "Desert"
+		}, {
+			"trait_type": "Motion",
+			"value": "Slow Walk"
+		}, {
+			"trait_type": "Mood",
+			"value": "Excited"
+		}, {
+			"trait_type": "Background",
+			"value": "Sky"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "1"
+		}, {
+			"trait_type": "Back",
+			"value": "Off"
+		}, {
+			"trait_type": "Belly",
+			"value": "On"
+		}, {
+			"trait_type": "Pattern",
+			"value": "Off"
+		}, {
+			"trait_type": "Details",
+			"value": "Off"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeifw45kyevm7q7rawwnq6ubtku4gxvqfamdyyzkj3dn6c3eidd6xee/3559.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeih4qw3iln6hhmemjxy6w2taksdbqa7szf3ronxi7fozqi6iwzmz4a/3559.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 4412
+			},
+			"moonrank": {
+				"rank": 4069,
+				"absolute_rarity": 4069,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-06-26T06:03:23.017Z",
+			"slot": 206829425
+		},
+		"lastSalePrice": 36000000000,
+		"lastSalePriceWithFees": 36000000000,
+		"createdAt": "2023-07-22T11:02:53.195Z",
+		"updatedAt": "2023-07-22T11:02:53.195Z"
+	}, {
+		"mintAddress": "GnzUCdvkwo7sDCKFnyVBvpoA7oj3Gd3Uterv7mBiY2ok",
+		"supply": 1,
+		"title": "Claynosaurz #10190",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "ChdLA87AsqR3GKguDHP296yw4aFEH3EWjcd4tK5685Zt",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 199,
+		"escrowPubkey": "bUNgev5Gp3J1krV8wJFhNyGFbzrbrbZvUYqvT6Eo8gZ",
+		"owner": "yrJ4JPcg4Rswa7m5Zw6PyMcr1aQYUcZYdKtmcT75znq",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "CPXHLAMXKXCR8KPmCxpzUu3PnwKWbwc4KwZm5dKuUer4",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://arweave.net/OAkE9lsqaSYXSrOH9nHIvEIjYd3nmKdp54_Vtcs63jQ?ext=gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Dactyl"
+		}, {
+			"trait_type": "Skin",
+			"value": "Jurassic"
+		}, {
+			"trait_type": "Color",
+			"value": "Aqua"
+		}, {
+			"trait_type": "Motion",
+			"value": "Flap"
+		}, {
+			"trait_type": "Mood",
+			"value": "Scared"
+		}, {
+			"trait_type": "Background",
+			"value": "Mint"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "2"
+		}, {
+			"trait_type": "Back",
+			"value": "Off"
+		}, {
+			"trait_type": "Belly",
+			"value": "On"
+		}, {
+			"trait_type": "Pattern",
+			"value": "On"
+		}, {
+			"trait_type": "Details",
+			"value": "Off"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://arweave.net/OAkE9lsqaSYXSrOH9nHIvEIjYd3nmKdp54_Vtcs63jQ?ext=gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://arweave.net/UURz57HKNOnp69ZNZVsNkuB5M20Is4KqJ5Iwt1MKnYE?ext=png",
+				"type": "image/png"
+			}],
+			"category": null,
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": null,
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-07-09T19:52:00.282Z",
+			"slot": 206510902
+		},
+		"createdAt": "2023-07-20T19:39:42.710Z",
+		"updatedAt": "2023-07-20T19:39:42.710Z"
+	}, {
+		"mintAddress": "GL4uvPBfc8g9iJpZb56aEvumCUDgwSqPeRmk4uE1aSAP",
+		"supply": 1,
+		"title": "Claynosaurz #5742",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 72,
+		"escrowPubkey": "GUJoUrrSEj6RCsD8rv13wo4zPTZmnEaLSyZpprrJ2beK",
+		"owner": "9HzAhxS3PHZUHynKDUQQKWKAYtW8bnz2QzenWWjb8HYi",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "ADaQaWwNp3zkoDdStqgRhzN8hRfBuqNfcCCqoYB8BpQ4",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeidiebdmx6pgcxzq7p72ejdzexuo4scbfg4kyr25yikkhr6mfqjce4/5741.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Ankylo"
+		}, {
+			"trait_type": "Skin",
+			"value": "Amazonia"
+		}, {
+			"trait_type": "Color",
+			"value": "Volcanic"
+		}, {
+			"trait_type": "Motion",
+			"value": "Trot"
+		}, {
+			"trait_type": "Mood",
+			"value": "Smug"
+		}, {
+			"trait_type": "Background",
+			"value": "Lavender"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "3"
+		}, {
+			"trait_type": "Back",
+			"value": "On"
+		}, {
+			"trait_type": "Belly",
+			"value": "Off"
+		}, {
+			"trait_type": "Pattern",
+			"value": "On"
+		}, {
+			"trait_type": "Details",
+			"value": "On"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeidiebdmx6pgcxzq7p72ejdzexuo4scbfg4kyr25yikkhr6mfqjce4/5741.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeihnvxfdhnnhmaxu673667wlzyrplpwonooskp4euzwcdf2go7qgfu/5741.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 7509
+			},
+			"moonrank": {
+				"rank": 6981,
+				"absolute_rarity": 6981,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-04-29T19:19:46.491Z",
+			"slot": 206451901
+		},
+		"lastSalePrice": 21913035000,
+		"lastSalePriceWithFees": 21990000000,
+		"createdAt": "2023-07-20T12:07:41.767Z",
+		"updatedAt": "2023-07-20T12:07:41.767Z"
+	}, {
+		"mintAddress": "GJLNeNSbjiXrvv1nn8BeNwf3rCekRDFHroFM6ReH4bCi",
+		"supply": 1,
+		"title": "Claynosaurz #4121",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 59.9,
+		"escrowPubkey": "CUTNQW9Gf4Tw4XoHD9tt6xVsDrzb7e1k9C1Pi6HxqKaP",
+		"owner": "AMsBQYNeKwgTVpFnRzhHZcgrtcpVtwcYNvr3WrgLxmDZ",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "Aji3hXmu1D8JTmBHBZxy39epKD478G7DEdaxXuY6xzty",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeif5ybyrybzxhur6x6x7umiuyxsemxzownspafxclrk24aj6w2fi3e/4120.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Rex"
+		}, {
+			"trait_type": "Skin",
+			"value": "Mirage"
+		}, {
+			"trait_type": "Color",
+			"value": "Tropic"
+		}, {
+			"trait_type": "Motion",
+			"value": "Trot"
+		}, {
+			"trait_type": "Mood",
+			"value": "Excited"
+		}, {
+			"trait_type": "Background",
+			"value": "Dune"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "2"
+		}, {
+			"trait_type": "Back",
+			"value": "On"
+		}, {
+			"trait_type": "Belly",
+			"value": "Off"
+		}, {
+			"trait_type": "Pattern",
+			"value": "Off"
+		}, {
+			"trait_type": "Details",
+			"value": "On"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeif5ybyrybzxhur6x6x7umiuyxsemxzownspafxclrk24aj6w2fi3e/4120.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeigoajvdkwueecnnhuemg7kda77yv64yaqhirh33pq2spfct52ac7a/4120.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 9843
+			},
+			"moonrank": {
+				"rank": 9844,
+				"absolute_rarity": 9844,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-07-13T06:55:21.293Z",
+			"slot": 206783672
+		},
+		"lastSalePrice": 58793500000,
+		"lastSalePriceWithFees": 59000000000,
+		"createdAt": "2023-07-22T05:27:45.716Z",
+		"updatedAt": "2023-07-22T05:27:45.716Z"
+	}, {
+		"mintAddress": "Gj4Eeop1zmsPeJrHUU5LakUrbTzbP3TpxnYE9wi9uw9n",
+		"supply": 1,
+		"title": "Claynosaurz #1888",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 88,
+		"escrowPubkey": "HwyrCEMqggsA3h7FNnqHMovsHBYDXgchrTN5TXpcWqsk",
+		"owner": "4PRUuyQqFhJ14xXMB14Sev9io3LDJUppYua96eNGZkKN",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "7G4rSeE7sTTPxXM4iuQbGcd3rRBvKxUSSfsmUfftsRHX",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeifuyobcl3x54ukwk5lt35xqiqoctjgy53kh2suqc2sx2372yt6k4m/1887.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Raptor"
+		}, {
+			"trait_type": "Skin",
+			"value": "Jurassic"
+		}, {
+			"trait_type": "Color",
+			"value": "Charcoal"
+		}, {
+			"trait_type": "Motion",
+			"value": "Walk"
+		}, {
+			"trait_type": "Mood",
+			"value": "Smug"
+		}, {
+			"trait_type": "Background",
+			"value": "Lavender"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "1"
+		}, {
+			"trait_type": "Back",
+			"value": "Off"
+		}, {
+			"trait_type": "Belly",
+			"value": "Off"
+		}, {
+			"trait_type": "Pattern",
+			"value": "Off"
+		}, {
+			"trait_type": "Details",
+			"value": "On"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeifuyobcl3x54ukwk5lt35xqiqoctjgy53kh2suqc2sx2372yt6k4m/1887.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeighfu7aqouvhxq4gftjmuuiu62vud6jtan3ftvk2qlzxqumpa7glm/1887.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 1494
+			},
+			"moonrank": {
+				"rank": 1890,
+				"absolute_rarity": 1890,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-05-12T15:26:59.282Z",
+			"slot": 206488937
+		},
+		"createdAt": "2023-07-20T16:49:16.991Z",
+		"updatedAt": "2023-07-20T16:49:16.991Z"
+	}, {
+		"mintAddress": "GheFetfrZZPP6V19CrxV8zgJ3vU6VkxfpBYP14Lz9CEW",
+		"supply": 1,
+		"title": "Claynosaurz #9024",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 100,
+		"escrowPubkey": "HsVxELtp1aPAhLErQX89GrBj18PUg1UY8z5uQuR82a1F",
+		"owner": "3AjKUvmnFLXpJ9EyaWmnLvPoqs7zTLesSRFZ6DXDbrUB",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "5qZYR14TZVh2pkGVvhkJbzoEsskvC6EscgBuP7oFs846",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeicqd5rszg7g23scvmvenvn3tf7ngdlf7sai2cu7ka5yo4ase4gpoy/9023.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Bronto"
+		}, {
+			"trait_type": "Skin",
+			"value": "Savanna"
+		}, {
+			"trait_type": "Color",
+			"value": "Volcanic"
+		}, {
+			"trait_type": "Motion",
+			"value": "Trot"
+		}, {
+			"trait_type": "Mood",
+			"value": "Scared"
+		}, {
+			"trait_type": "Background",
+			"value": "Sky"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "3"
+		}, {
+			"trait_type": "Back",
+			"value": "Off"
+		}, {
+			"trait_type": "Belly",
+			"value": "On"
+		}, {
+			"trait_type": "Pattern",
+			"value": "On"
+		}, {
+			"trait_type": "Details",
+			"value": "On"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeicqd5rszg7g23scvmvenvn3tf7ngdlf7sai2cu7ka5yo4ase4gpoy/9023.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeibigvbpwz7geuofghq4mv44km6imciqib3knb7qpk362pb4ljuhlm/9023.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 5785
+			},
+			"moonrank": {
+				"rank": 3718,
+				"absolute_rarity": 3718,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-06-05T18:02:16.463Z",
+			"slot": 206487000
+		},
+		"lastSalePrice": 25043256842,
+		"lastSalePriceWithFees": 25794997467,
+		"createdAt": "2023-07-20T16:34:30.038Z",
+		"updatedAt": "2023-07-20T16:34:30.038Z"
+	}, {
+		"mintAddress": "GgmxMQSJwRE7dXNy8z1xGMJizNYnpU4k2R3LaVggcP2X",
+		"supply": 1,
+		"title": "Claynosaurz #6617",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 88,
+		"escrowPubkey": "CyrcXs7uqPCCmHhWABHpt6V6cijwzMQY2enxnHB7jcfh",
+		"owner": "9HzAhxS3PHZUHynKDUQQKWKAYtW8bnz2QzenWWjb8HYi",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "BQjwDHEheumZXVYkd4LUZezbpADUkdqT5eXNXyoKegnw",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeiex4z3xtajufi53d3ovgnpgatpu73ql77cqwdndpylkor5wihqrgy/6616.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Raptor"
+		}, {
+			"trait_type": "Skin",
+			"value": "Mirage"
+		}, {
+			"trait_type": "Color",
+			"value": "Aqua"
+		}, {
+			"trait_type": "Motion",
+			"value": "Walk"
+		}, {
+			"trait_type": "Mood",
+			"value": "Excited"
+		}, {
+			"trait_type": "Background",
+			"value": "Dune"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "1"
+		}, {
+			"trait_type": "Back",
+			"value": "Off"
+		}, {
+			"trait_type": "Belly",
+			"value": "On"
+		}, {
+			"trait_type": "Pattern",
+			"value": "Off"
+		}, {
+			"trait_type": "Details",
+			"value": "Off"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeiex4z3xtajufi53d3ovgnpgatpu73ql77cqwdndpylkor5wihqrgy/6616.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeic3apkcknb2klnefwowl7k54a77w5fm4rc7qlllksnatbyfj4auky/6616.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 8189
+			},
+			"moonrank": {
+				"rank": 7719,
+				"absolute_rarity": 7719,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-04-17T08:24:28.340Z",
+			"slot": 206796382
+		},
+		"lastSalePrice": 65769000000,
+		"lastSalePriceWithFees": 66000000000,
+		"createdAt": "2023-07-22T07:00:15.373Z",
+		"updatedAt": "2023-07-22T07:00:15.373Z"
+	}, {
+		"mintAddress": "GGG2Nt98DfKcqZ1McrmvxH1tJXeZq3wSv9QqoWnP4aMt",
+		"supply": 1,
+		"title": "Claynosaurz #10169",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "ChdLA87AsqR3GKguDHP296yw4aFEH3EWjcd4tK5685Zt",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 380,
+		"escrowPubkey": "3NQhA2iUKqMrZyqo5MLP35ddCUbnnzawgXCJakArX2Et",
+		"owner": "EWw35s3yqnDNgtTgkQvSsF1m9EKEhmMnTNQndfbeVWnw",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "4udjYZ5QDUUu5kdwXgHa1hgneMn1uR4TrRGNcX3KVrDQ",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://arweave.net/VQt6uvLr9Rtak2AHFjyaEMOaKoKMN9Y4hCD-TrAiRrQ?ext=gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Dactyl"
+		}, {
+			"trait_type": "Skin",
+			"value": "Apres"
+		}, {
+			"trait_type": "Color",
+			"value": "Tropic"
+		}, {
+			"trait_type": "Motion",
+			"value": "Flap"
+		}, {
+			"trait_type": "Mood",
+			"value": "Bored"
+		}, {
+			"trait_type": "Background",
+			"value": "Salmon"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "2"
+		}, {
+			"trait_type": "Back",
+			"value": "Off"
+		}, {
+			"trait_type": "Belly",
+			"value": "Off"
+		}, {
+			"trait_type": "Pattern",
+			"value": "On"
+		}, {
+			"trait_type": "Details",
+			"value": "On"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://arweave.net/VQt6uvLr9Rtak2AHFjyaEMOaKoKMN9Y4hCD-TrAiRrQ?ext=gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://arweave.net/cgEusRN5HnWogajT7MGn835f_dtQE-tSuSFipTvMCUo?ext=png",
+				"type": "image/png"
+			}],
+			"category": null,
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": null,
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-06-24T00:23:06.795Z",
+			"slot": 206555401
+		},
+		"lastSalePrice": 273625000000,
+		"lastSalePriceWithFees": 275000000000,
+		"createdAt": "2023-07-21T01:12:43.424Z",
+		"updatedAt": "2023-07-21T01:12:43.424Z"
+	}, {
+		"mintAddress": "GeheoEVLAB2dxKm1N8mA5aLDh5vcXspwDeKZZg6kCSDu",
+		"supply": 1,
+		"title": "Claynosaurz #10086",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "ChdLA87AsqR3GKguDHP296yw4aFEH3EWjcd4tK5685Zt",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 254,
+		"escrowPubkey": "3Bir7a6phzBgDAAjZX3ryjEiaP1n5WezMRUHsmXWNhKn",
+		"owner": "FdTsnwUanBR1qnkN623BYkJ9yq2vfMwUKFnQ5vBxpAW4",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "9pw6hSwUBLqMtBtcSccWkcYGniNB9Cad65jNKEzaT6My",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://arweave.net/4Jeix__ag1dZBJ1rJE_EZPj5gV8tJwl8ExnkTpcd9tg?ext=gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Dactyl"
+		}, {
+			"trait_type": "Skin",
+			"value": "Coral"
+		}, {
+			"trait_type": "Color",
+			"value": "Volcanic"
+		}, {
+			"trait_type": "Motion",
+			"value": "Glide"
+		}, {
+			"trait_type": "Mood",
+			"value": "Bored"
+		}, {
+			"trait_type": "Background",
+			"value": "Sky"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "1"
+		}, {
+			"trait_type": "Back",
+			"value": "On"
+		}, {
+			"trait_type": "Belly",
+			"value": "Off"
+		}, {
+			"trait_type": "Pattern",
+			"value": "Off"
+		}, {
+			"trait_type": "Details",
+			"value": "Off"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://arweave.net/4Jeix__ag1dZBJ1rJE_EZPj5gV8tJwl8ExnkTpcd9tg?ext=gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://arweave.net/8IGOEYbmCzJEP8Au2M__zhj1poYD_cWLuvQUMZE3ab4?ext=png",
+				"type": "image/png"
+			}],
+			"category": null,
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": null,
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-05-05T17:17:54.007Z",
+			"slot": 206550781
+		},
+		"createdAt": "2023-07-21T00:37:29.014Z",
+		"updatedAt": "2023-07-21T00:37:29.014Z"
+	}, {
+		"mintAddress": "GEBFYZ5WqdcG9FJtVPZEC5vWVM4hYZ25tDgqgBMAASFN",
+		"supply": 1,
+		"title": "Claynosaurz #4223",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 100,
+		"escrowPubkey": "BdknMTuHLyNHEMubWFRGCVggTwyk1QJnfGaZiwQ5RWgG",
+		"owner": "2zxcXx6r9F56gBRsbM41zPRTb7E5rLJdpu3oW8GWqCiG",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "BwtDUjRD9eQeSd6G3k2fnjUVbGn9fj4KoFAQgni4gejx",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeifkt5sb4stsc7gq2fdueydej4y3lfdiqipvavfbitikumppxxnv6y/4222.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Stego"
+		}, {
+			"trait_type": "Skin",
+			"value": "Mirage"
+		}, {
+			"trait_type": "Color",
+			"value": "Aqua"
+		}, {
+			"trait_type": "Motion",
+			"value": "Idle"
+		}, {
+			"trait_type": "Mood",
+			"value": "Smug"
+		}, {
+			"trait_type": "Background",
+			"value": "Salmon"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "2"
+		}, {
+			"trait_type": "Back",
+			"value": "On"
+		}, {
+			"trait_type": "Belly",
+			"value": "Off"
+		}, {
+			"trait_type": "Pattern",
+			"value": "Off"
+		}, {
+			"trait_type": "Details",
+			"value": "On"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeifkt5sb4stsc7gq2fdueydej4y3lfdiqipvavfbitikumppxxnv6y/4222.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeid3bo3taybafodkojhsjir376x7jk742xhcvjrkp25dmshnj2jnlq/4222.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 9238
+			},
+			"moonrank": {
+				"rank": 9368,
+				"absolute_rarity": 9368,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-01-11T23:24:26.948Z",
+			"slot": 206762620
+		},
+		"lastSalePrice": 40818200000,
+		"lastSalePriceWithFees": 40900000000,
+		"createdAt": "2023-07-22T02:54:59.715Z",
+		"updatedAt": "2023-07-22T02:54:59.715Z"
+	}, {
+		"mintAddress": "GDPVJri9E1y12XfhZmUUZmMQvgVNJTtxo7X9YYo9nZqi",
+		"supply": 1,
+		"title": "Claynosaurz #5234",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 117,
+		"escrowPubkey": "EQ48QH39Lp3zv3S2Y7H1U5c8rKAAEMkKuXA4TD2U58vx",
+		"owner": "27TUhb9T3hPgDrWqJHpqVsGjZ88caPztMb36iH4KeyAr",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "AJqpL8bnCn1iDgert2XFtgukupPj35S8aCNqiRhcUZXG",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeibddh66bet6pvwth5th6uiaoqqk6cpgghnq466ebchvm6ltibc5gy/5233.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Rex"
+		}, {
+			"trait_type": "Skin",
+			"value": "Mirage"
+		}, {
+			"trait_type": "Color",
+			"value": "Spring"
+		}, {
+			"trait_type": "Motion",
+			"value": "Run"
+		}, {
+			"trait_type": "Mood",
+			"value": "Scared"
+		}, {
+			"trait_type": "Background",
+			"value": "Sky"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "2"
+		}, {
+			"trait_type": "Back",
+			"value": "Off"
+		}, {
+			"trait_type": "Belly",
+			"value": "On"
+		}, {
+			"trait_type": "Pattern",
+			"value": "On"
+		}, {
+			"trait_type": "Details",
+			"value": "Off"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeibddh66bet6pvwth5th6uiaoqqk6cpgghnq466ebchvm6ltibc5gy/5233.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeighp3lxz4pndljhjxufowquncwtwbxjx32e6mdib4545qivpkehi4/5233.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 2453
+			},
+			"moonrank": {
+				"rank": 2298,
+				"absolute_rarity": 2298,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-03-31T22:13:31.636Z",
+			"slot": 206831916
+		},
+		"lastSalePrice": 91586000000,
+		"lastSalePriceWithFees": 92000000000,
+		"createdAt": "2023-07-22T11:21:03.288Z",
+		"updatedAt": "2023-07-22T11:21:03.288Z"
+	}, {
+		"mintAddress": "G5U6y7kBT8NGAqBBg6387aJdf3WdFnBELxjD6xG6sTXH",
+		"supply": 1,
+		"title": "Claynosaurz #4176",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 90,
+		"escrowPubkey": "7scBYPPSMHsAWQi9HtPVoRYUoViodWtLBkity3HmcWqZ",
+		"owner": "46RQLQTUka893omr4jqL3xuND2wEPXcDCtdzBUFrRune",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "DnY3YfNFZiNQcpBvB7PDqax2q9CBAQnx8d4a6zMJW7km",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeichryo3skywlrp53hzq5ywux57fc2tgchdfrdxcuyys7kifqsdnmi/4175.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Raptor"
+		}, {
+			"trait_type": "Skin",
+			"value": "Mirage"
+		}, {
+			"trait_type": "Color",
+			"value": "Tropic"
+		}, {
+			"trait_type": "Motion",
+			"value": "Run"
+		}, {
+			"trait_type": "Mood",
+			"value": "Scared"
+		}, {
+			"trait_type": "Background",
+			"value": "Dune"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "0"
+		}, {
+			"trait_type": "Back",
+			"value": "Off"
+		}, {
+			"trait_type": "Belly",
+			"value": "Off"
+		}, {
+			"trait_type": "Pattern",
+			"value": "Off"
+		}, {
+			"trait_type": "Details",
+			"value": "Off"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeichryo3skywlrp53hzq5ywux57fc2tgchdfrdxcuyys7kifqsdnmi/4175.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeidcf427rluf27qkxdx6aqa5o5ijxu26gry2ws3jvg6lqzellm6tny/4175.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 68
+			},
+			"moonrank": {
+				"rank": 148,
+				"absolute_rarity": 148,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-07-11T04:02:54.592Z",
+			"slot": 206668315
+		},
+		"lastSalePrice": 174387500000,
+		"lastSalePriceWithFees": 175000000000,
+		"createdAt": "2023-07-21T15:12:04.747Z",
+		"updatedAt": "2023-07-21T15:12:04.747Z"
+	}, {
+		"mintAddress": "G3yYk7XitcipS2k4AE6ruwE8mG1yeNom8aEZHHL4arpU",
+		"supply": 1,
+		"title": "Claynosaurz #3395",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 128,
+		"escrowPubkey": "Di8BCAipFtPSmeqAWKBJhEjvvqP2768y39fJNfaHiacP",
+		"owner": "9rGwRwcz97HkB76NCup4m9WiarXho8NNRwEUiyHZKNYi",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "FAYTmjjVK3YeUPoGPXgPJbSKrp361VtpqXF1YPLzKgLY",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeibnwbxjuh4eli4dqho76tydja6aegfw3gcywx5njoetvhpmebpdri/3394.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Rex"
+		}, {
+			"trait_type": "Skin",
+			"value": "Elektra"
+		}, {
+			"trait_type": "Color",
+			"value": "Tropic"
+		}, {
+			"trait_type": "Motion",
+			"value": "Trot"
+		}, {
+			"trait_type": "Mood",
+			"value": "Confident"
+		}, {
+			"trait_type": "Background",
+			"value": "Sky"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "2"
+		}, {
+			"trait_type": "Back",
+			"value": "On"
+		}, {
+			"trait_type": "Belly",
+			"value": "Off"
+		}, {
+			"trait_type": "Pattern",
+			"value": "Off"
+		}, {
+			"trait_type": "Details",
+			"value": "On"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeibnwbxjuh4eli4dqho76tydja6aegfw3gcywx5njoetvhpmebpdri/3394.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeici6w6o4edv5wlz4ij6f6ivhqky3zm6r24rhduxzpwzesvssbouai/3394.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 5855
+			},
+			"moonrank": {
+				"rank": 7219,
+				"absolute_rarity": 7219,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-03-17T05:57:41.345Z",
+			"slot": 206814656
+		},
+		"lastSalePrice": 27500000000,
+		"lastSalePriceWithFees": 27500000000,
+		"createdAt": "2023-07-22T09:14:01.781Z",
+		"updatedAt": "2023-07-22T09:14:01.781Z"
+	}, {
+		"mintAddress": "G2o1nHs1aZA575wAnnUPV4Ap9byPXGz5Jx1NTkeZVsnc",
+		"supply": 1,
+		"title": "Claynosaurz #8000",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 69,
+		"escrowPubkey": "B97oEWj6W2wWYrFM62uRHMjhoMW2EVcvtshyh4wYfTZV",
+		"owner": "BYapkaBCW2djcTL1LfpodDMuhepCtoiBfbb27mLD26J7",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "BUeGCdvEYhued8CWUXxDyChrUt4fqDMSHkzW6h96rnBn",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeighas7ourzj2clfzx46ulmtllb7yy6zry3icy6bshd7fwm62wvrrm/7999.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Trice"
+		}, {
+			"trait_type": "Skin",
+			"value": "Amazonia"
+		}, {
+			"trait_type": "Color",
+			"value": "Charcoal"
+		}, {
+			"trait_type": "Motion",
+			"value": "Walk"
+		}, {
+			"trait_type": "Mood",
+			"value": "Bored"
+		}, {
+			"trait_type": "Background",
+			"value": "Sky"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "3"
+		}, {
+			"trait_type": "Back",
+			"value": "On"
+		}, {
+			"trait_type": "Belly",
+			"value": "Off"
+		}, {
+			"trait_type": "Pattern",
+			"value": "On"
+		}, {
+			"trait_type": "Details",
+			"value": "On"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeighas7ourzj2clfzx46ulmtllb7yy6zry3icy6bshd7fwm62wvrrm/7999.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeihgsgf2gmruxsxuabk4oduupyqhfbkvoec3expanpiyavcq5hezt4/7999.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 1725
+			},
+			"moonrank": {
+				"rank": 2116,
+				"absolute_rarity": 2116,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-03-12T01:38:53.296Z",
+			"slot": 206750240
+		},
+		"lastSalePrice": 29500000000,
+		"lastSalePriceWithFees": 29500000000,
+		"createdAt": "2023-07-22T01:23:09.647Z",
+		"updatedAt": "2023-07-22T01:23:09.647Z"
+	}, {
+		"mintAddress": "Fyg5i9LD7f1aUozEF2ANjiwQqh6LF7t8wugmntnZ2eQ",
+		"supply": 1,
+		"title": "Claynosaurz #4761",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 67,
+		"escrowPubkey": "DYW39L7qh382n7SgjFPEMBfrJ6JVejS3MY9VV3schn1Q",
+		"owner": "AG9jUMPAZ1TyEoEgUNwb4JKgwRHz7D64FaFuzSDdkh6C",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "31krLKM4rS1BZLZG8ZoazA1TdomUV9bWn8GJpoTcuvGY",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeigcopsl4io24olks5whlvwwq76aaqrgjs6mtthw5l77t2vyxzotla/4760.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Trice"
+		}, {
+			"trait_type": "Skin",
+			"value": "Toxic"
+		}, {
+			"trait_type": "Color",
+			"value": "Aqua"
+		}, {
+			"trait_type": "Motion",
+			"value": "Gallop"
+		}, {
+			"trait_type": "Mood",
+			"value": "Excited"
+		}, {
+			"trait_type": "Background",
+			"value": "Lavender"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "2"
+		}, {
+			"trait_type": "Back",
+			"value": "Off"
+		}, {
+			"trait_type": "Belly",
+			"value": "On"
+		}, {
+			"trait_type": "Pattern",
+			"value": "Off"
+		}, {
+			"trait_type": "Details",
+			"value": "On"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeigcopsl4io24olks5whlvwwq76aaqrgjs6mtthw5l77t2vyxzotla/4760.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeictaebs2cmatjrvugizmmjcwc57mtsftcr4r3l4i4c53gt4z47g7m/4760.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 2056
+			},
+			"moonrank": {
+				"rank": 1839,
+				"absolute_rarity": 1839,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-07-19T20:53:31.365Z",
+			"slot": 206810495
+		},
+		"lastSalePrice": 27000000000,
+		"lastSalePriceWithFees": 27000000000,
+		"createdAt": "2023-07-22T08:43:14.471Z",
+		"updatedAt": "2023-07-22T08:43:14.471Z"
+	}, {
+		"mintAddress": "FycTuPEZzgfzvhFJJXx4SuK4tAZK56W8Ay2vjvbxhixD",
+		"supply": 1,
+		"title": "Claynosaurz #675",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 53.33,
+		"escrowPubkey": "HyBKTYrdxJGT6c7caKkqwH9h2GUnuHXokzpRsxkdURjx",
+		"owner": "EDN6bUVgpdzfnX7BpLKuVjUw25Ck7BjM1fevaRaiz22h",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "9Xc1JG7M8yn73d1sXy4N1HLNzKvF21rhmBMg41nhrKUo",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeieysqda7kfxjbjssgyfu63dzbpkvaafgfbs7lld3eed2trufdtgpy/674.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Bronto"
+		}, {
+			"trait_type": "Skin",
+			"value": "Coral"
+		}, {
+			"trait_type": "Color",
+			"value": "Desert"
+		}, {
+			"trait_type": "Motion",
+			"value": "Idle"
+		}, {
+			"trait_type": "Mood",
+			"value": "Confident"
+		}, {
+			"trait_type": "Background",
+			"value": "Mint"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "3"
+		}, {
+			"trait_type": "Back",
+			"value": "On"
+		}, {
+			"trait_type": "Belly",
+			"value": "On"
+		}, {
+			"trait_type": "Pattern",
+			"value": "On"
+		}, {
+			"trait_type": "Details",
+			"value": "Off"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeieysqda7kfxjbjssgyfu63dzbpkvaafgfbs7lld3eed2trufdtgpy/674.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeihwyipukgpyspfzdh42blhbxyrx2r55d4isqo2yrkohtz6d4irx44/674.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 3669
+			},
+			"moonrank": {
+				"rank": 2572,
+				"absolute_rarity": 2572,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-06-26T13:57:42.675Z",
+			"slot": 206489455
+		},
+		"lastSalePrice": 55126255000,
+		"lastSalePriceWithFees": 58654335320,
+		"createdAt": "2023-07-20T16:53:18.777Z",
+		"updatedAt": "2023-07-20T16:53:18.777Z"
+	}, {
+		"mintAddress": "FwmskMnpLM5Vst4nJBqww9oRbZjPbHNzyn8W7275qW42",
+		"supply": 1,
+		"title": "Claynosaurz #10048",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "ChdLA87AsqR3GKguDHP296yw4aFEH3EWjcd4tK5685Zt",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 500,
+		"escrowPubkey": "2MkmLsb4N2HH1LiXodZpUSndaYNT6sS1N3yq8sDgKJgS",
+		"owner": "8VFXXdKCHRsWgDcZcWzDxUzAZbrKmuizNREZzKycUKSX",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "EnRPpeDvQtoYmfPbVmdgZD9M7uzKmCVC3JdwErDgMiW7",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://arweave.net/KvGZM9hdCzCrW79LeGUYyYtFRjOtgwmmgujSIT3EQVk?ext=gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Dactyl"
+		}, {
+			"trait_type": "Skin",
+			"value": "Jurassic"
+		}, {
+			"trait_type": "Color",
+			"value": "Tropic"
+		}, {
+			"trait_type": "Motion",
+			"value": "Fly"
+		}, {
+			"trait_type": "Mood",
+			"value": "Confident"
+		}, {
+			"trait_type": "Background",
+			"value": "Mint"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "1"
+		}, {
+			"trait_type": "Back",
+			"value": "Off"
+		}, {
+			"trait_type": "Belly",
+			"value": "Off"
+		}, {
+			"trait_type": "Pattern",
+			"value": "On"
+		}, {
+			"trait_type": "Details",
+			"value": "Off"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://arweave.net/KvGZM9hdCzCrW79LeGUYyYtFRjOtgwmmgujSIT3EQVk?ext=gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://arweave.net/6OERjDs7AaQjJFBGV1oMMAZv0QL74tj_zf22gpuMdvg?ext=png",
+				"type": "image/png"
+			}],
+			"category": null,
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": null,
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-06-06T13:38:43.678Z",
+			"slot": 206530045
+		},
+		"lastSalePrice": 188470000000,
+		"lastSalePriceWithFees": 188000000000,
+		"createdAt": "2023-07-20T22:03:38.076Z",
+		"updatedAt": "2023-07-20T22:03:38.076Z"
+	}, {
+		"mintAddress": "FvuHHZCHkoH1g3BU3HFMivnGG47VuQN41VgVgBmQeSML",
+		"supply": 1,
+		"title": "Claynosaurz #5966",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 47.4,
+		"escrowPubkey": "xn11qcsrj3WD7UuvivgRs1ziPJ6FRVpMss3RLpa2EhS",
+		"owner": "5i1A6fhFUQcsh1JHZDWFvEGSF1sxQGNMesUmgVegEbxf",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "EHYgpqBnGd65vzofF1L2TUkRx38Pq8ZjcueXLDMEZGCQ",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeigdyxaicfv5mmlcgugxgmxfl5mqeu2dzjb3zb6csnuqpm2tfnyyjq/5965.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Trice"
+		}, {
+			"trait_type": "Skin",
+			"value": "Amazonia"
+		}, {
+			"trait_type": "Color",
+			"value": "Aqua"
+		}, {
+			"trait_type": "Motion",
+			"value": "Slow Walk"
+		}, {
+			"trait_type": "Mood",
+			"value": "Bored"
+		}, {
+			"trait_type": "Background",
+			"value": "Dune"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "2"
+		}, {
+			"trait_type": "Back",
+			"value": "On"
+		}, {
+			"trait_type": "Belly",
+			"value": "Off"
+		}, {
+			"trait_type": "Pattern",
+			"value": "On"
+		}, {
+			"trait_type": "Details",
+			"value": "Off"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeigdyxaicfv5mmlcgugxgmxfl5mqeu2dzjb3zb6csnuqpm2tfnyyjq/5965.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeigwfsx7yzxw76jpueubr75nu7uigv3lfwgmfxnngmthmo3dfzb2be/5965.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 8613
+			},
+			"moonrank": {
+				"rank": 8712,
+				"absolute_rarity": 8712,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-07-01T11:56:38.862Z",
+			"slot": 206520111
+		},
+		"lastSalePrice": 67432500000,
+		"lastSalePriceWithFees": 67500000000,
+		"createdAt": "2023-07-20T20:49:01.511Z",
+		"updatedAt": "2023-07-20T20:49:01.511Z"
+	}, {
+		"mintAddress": "FVmGiMzfNheBAeG6SFpx5AwH2tpHN9NbYejBqc3ystb9",
+		"supply": 1,
+		"title": "Claynosaurz #6025",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 64,
+		"escrowPubkey": "2ThtFd6Xh4wSjrRzJoRn8EU6hETCkSAcTANSFCqfoD3Z",
+		"owner": "FRcfhfbffT6qyHwQRWAJAK2PoiEQS9AEgURtXrbYexUB",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "BywtYujfyn7zGEBBHrcdsXxi5aFNC61LombfR4mKUjzQ",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeieegvljnzixxr5nckhag3oxbbvqx3nisrhb726qkfiledwc4pd54i/6024.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Raptor"
+		}, {
+			"trait_type": "Skin",
+			"value": "Savanna"
+		}, {
+			"trait_type": "Color",
+			"value": "Volcanic"
+		}, {
+			"trait_type": "Motion",
+			"value": "Trot"
+		}, {
+			"trait_type": "Mood",
+			"value": "Bored"
+		}, {
+			"trait_type": "Background",
+			"value": "Lavender"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "1"
+		}, {
+			"trait_type": "Back",
+			"value": "Off"
+		}, {
+			"trait_type": "Belly",
+			"value": "On"
+		}, {
+			"trait_type": "Pattern",
+			"value": "Off"
+		}, {
+			"trait_type": "Details",
+			"value": "Off"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeieegvljnzixxr5nckhag3oxbbvqx3nisrhb726qkfiledwc4pd54i/6024.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeicsclkcdyhqvx7n563itoh4jg7b67whj6yjwke2dqzzrrgiuwnaxm/6024.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 6160
+			},
+			"moonrank": {
+				"rank": 5324,
+				"absolute_rarity": 5324,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-07-10T06:25:51.949Z",
+			"slot": 206532617
+		},
+		"lastSalePrice": 23000000000,
+		"lastSalePriceWithFees": 23000000000,
+		"createdAt": "2023-07-20T22:22:41.466Z",
+		"updatedAt": "2023-07-20T22:22:41.466Z"
+	}, {
+		"mintAddress": "FSKqrWVd4tCBaRmtZUi4wzY5Lxc5mk8gpxSLUguXk3uC",
+		"supply": 1,
+		"title": "Claynosaurz #3495",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 420,
+		"escrowPubkey": "AGvdWPaVkqCuQk4WvZn65HAt4YsB41qCk4wmAd3vySAC",
+		"owner": "C86ZUQZRBebE7Jbn1vBK8LLtX5dD8jHpzuthDnxsvPJj",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "C7qo7awSmXPQSf5UCq8XDtrBpU18Xtgf3qfcjfXzNjQz",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeiace7gtb4ifmv4ydjdrkgrio2j3vmaxflgsjt5ghee24vm4kmxvae/3494.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Rex"
+		}, {
+			"trait_type": "Skin",
+			"value": "Apres"
+		}, {
+			"trait_type": "Color",
+			"value": "Aqua"
+		}, {
+			"trait_type": "Motion",
+			"value": "Run"
+		}, {
+			"trait_type": "Mood",
+			"value": "Excited"
+		}, {
+			"trait_type": "Background",
+			"value": "Sky"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "4"
+		}, {
+			"trait_type": "Back",
+			"value": "On"
+		}, {
+			"trait_type": "Belly",
+			"value": "On"
+		}, {
+			"trait_type": "Pattern",
+			"value": "On"
+		}, {
+			"trait_type": "Details",
+			"value": "On"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeiace7gtb4ifmv4ydjdrkgrio2j3vmaxflgsjt5ghee24vm4kmxvae/3494.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeiabhxw4ttshjltsmtrga2cda4lnltosdo74afnndwud6rgl6i3kfi/3494.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 41
+			},
+			"moonrank": {
+				"rank": 21,
+				"absolute_rarity": 21,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-03-26T03:47:38.379Z",
+			"slot": 206728542
+		},
+		"lastSalePrice": 55000890880,
+		"lastSalePriceWithFees": 55001798720,
+		"createdAt": "2023-07-21T22:43:59.987Z",
+		"updatedAt": "2023-07-21T22:43:59.987Z"
+	}, {
+		"mintAddress": "Fro52mhowcRin8ReBTbhppuCmwzpwP1hDTyXTivdUngh",
+		"supply": 1,
+		"title": "Claynosaurz #9273",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 88.88,
+		"escrowPubkey": "2ALoLtJnZ45Vw9AaaarpQW2bMZE4shktiu5CMcRbVGAF",
+		"owner": "3kp6q329H3JR5EaxRD4CaL1PN8BTZC2g1teT9XX3yDrw",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "9DFJm43v2Gr7mBJWRxL4yatggKB49mPoECZSY1iiHK1Y",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeigbksu76a5dpizwf3mpfzl3h35xenrczytqqehu7xzw7nce2uuzfa/9272.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Rex"
+		}, {
+			"trait_type": "Skin",
+			"value": "Mirage"
+		}, {
+			"trait_type": "Color",
+			"value": "Mist"
+		}, {
+			"trait_type": "Motion",
+			"value": "Trot"
+		}, {
+			"trait_type": "Mood",
+			"value": "Scared"
+		}, {
+			"trait_type": "Background",
+			"value": "Lavender"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "2"
+		}, {
+			"trait_type": "Back",
+			"value": "Off"
+		}, {
+			"trait_type": "Belly",
+			"value": "On"
+		}, {
+			"trait_type": "Pattern",
+			"value": "On"
+		}, {
+			"trait_type": "Details",
+			"value": "Off"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeigbksu76a5dpizwf3mpfzl3h35xenrczytqqehu7xzw7nce2uuzfa/9272.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeihlkh6sxgcfoasca75odfwppilati7qeoxbwgvxex6e2dqnikga3e/9272.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 1531
+			},
+			"moonrank": {
+				"rank": 2622,
+				"absolute_rarity": 2622,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-04-08T20:39:12.351Z",
+			"slot": 206525111
+		},
+		"lastSalePrice": 33966000000,
+		"lastSalePriceWithFees": 34000000000,
+		"createdAt": "2023-07-20T21:27:13.466Z",
+		"updatedAt": "2023-07-20T21:27:13.466Z"
+	}, {
+		"mintAddress": "FRMYu3XKyutXeofEmKLWaEpvRQmWeGvZzHMUMZ43R9Ys",
+		"supply": 1,
+		"title": "Claynosaurz #7862",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 40,
+		"escrowPubkey": "86xNExQM7oVecn89QPc1pNXfWu4aiH7bcAm3itwxbNKd",
+		"owner": "4Dykbe7mcQFA6HYWmnEcvfLxGLW6kZFCDWR3JbjAB2Vh",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "HgA9wviHN9eEE2HVzU7qRXPAjJmKrDaRNBMMvSSYuJfC",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeihkdpiea3mdwpyy4ad67fuc7por26hnp723435ctwredh4yxqlmbm/7861.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Rex"
+		}, {
+			"trait_type": "Skin",
+			"value": "Mirage"
+		}, {
+			"trait_type": "Color",
+			"value": "Desert"
+		}, {
+			"trait_type": "Motion",
+			"value": "Slow Walk"
+		}, {
+			"trait_type": "Mood",
+			"value": "Sleepy"
+		}, {
+			"trait_type": "Background",
+			"value": "Salmon"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "3"
+		}, {
+			"trait_type": "Back",
+			"value": "On"
+		}, {
+			"trait_type": "Belly",
+			"value": "Off"
+		}, {
+			"trait_type": "Pattern",
+			"value": "On"
+		}, {
+			"trait_type": "Details",
+			"value": "On"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeihkdpiea3mdwpyy4ad67fuc7por26hnp723435ctwredh4yxqlmbm/7861.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeig5y3zmigbbil57dwhnwb2m63rdjpzk4feurducjsoyovwdqf2fzq/7861.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 9512
+			},
+			"moonrank": {
+				"rank": 9393,
+				"absolute_rarity": 9393,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-07-11T23:40:49.510Z",
+			"slot": 206674086
+		},
+		"lastSalePrice": 58400000000,
+		"lastSalePriceWithFees": 61904000000,
+		"createdAt": "2023-07-21T15:54:55.406Z",
+		"updatedAt": "2023-07-21T15:54:55.406Z"
+	}, {
+		"mintAddress": "FoE6knQAUH1uAViK8J3JusRT5GkzeSLxoUpXhmsShEwM",
+		"supply": 1,
+		"title": "Claynosaurz #6913",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 83,
+		"escrowPubkey": "B8bghtSwbTCKDjW7gRYbJ7BEBB8KNJDPLtZcFXawmuJa",
+		"owner": "9gKQ1XCPQkR9BhPJyp1XSmMsE3eQL5z8U6Tcj6JzkKeY",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "51Nn42kTc8mowbbGAN4YgLFQHx94wSAFSXkywoZ1BBkr",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeihbrfst6c6oobut22lbjkyvu5nhjsxivhk2zsyhdfb2vu3ge3jxdi/6912.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Stego"
+		}, {
+			"trait_type": "Skin",
+			"value": "Savanna"
+		}, {
+			"trait_type": "Color",
+			"value": "Tropic"
+		}, {
+			"trait_type": "Motion",
+			"value": "Idle"
+		}, {
+			"trait_type": "Mood",
+			"value": "Scared"
+		}, {
+			"trait_type": "Background",
+			"value": "Sky"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "4"
+		}, {
+			"trait_type": "Back",
+			"value": "On"
+		}, {
+			"trait_type": "Belly",
+			"value": "On"
+		}, {
+			"trait_type": "Pattern",
+			"value": "On"
+		}, {
+			"trait_type": "Details",
+			"value": "On"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeihbrfst6c6oobut22lbjkyvu5nhjsxivhk2zsyhdfb2vu3ge3jxdi/6912.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeiboeeg4jcxs5nk4edgs6lq2fhcmwrdwmgmhw54mengvvwpl2d6hbu/6912.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 745
+			},
+			"moonrank": {
+				"rank": 495,
+				"absolute_rarity": 495,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-06-05T22:24:38.512Z",
+			"slot": 206750015
+		},
+		"lastSalePrice": 60000000000,
+		"lastSalePriceWithFees": 63840000000,
+		"createdAt": "2023-07-22T01:21:30.402Z",
+		"updatedAt": "2023-07-22T01:21:30.402Z"
+	}, {
+		"mintAddress": "FLChdfncvKRJwfPgXZrnJ7ee9hgM9Q9iJ59A6bste4Bs",
+		"supply": 1,
+		"title": "Claynosaurz #8124",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 110,
+		"escrowPubkey": "FApS155hSjT4eESqPL7tUHtHGtgFYaC2NMQB8WDbt3oE",
+		"owner": "Fi6bpoYhd9TPzJmpsgNwzJt21KF9vgg2WWrp9XmUL1FJ",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "BURpif1WNMyZuEDVoD5fwhotPgT2iXurCJEJTfsNPBbF",
+			"expiry": -1
+		},
+		"id": "7EwZNhnJrGP6VPpf44njZFSbMRmJP3Aj9dvSNtAbs13U",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeiengiaafucteksgzjocrcdp6ttoxf3f4bw7qfs54ghxwdnpsclxg4/8123.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Ankylo"
+		}, {
+			"trait_type": "Skin",
+			"value": "Apres"
+		}, {
+			"trait_type": "Color",
+			"value": "Amethyst"
+		}, {
+			"trait_type": "Motion",
+			"value": "Walk"
+		}, {
+			"trait_type": "Mood",
+			"value": "Happy"
+		}, {
+			"trait_type": "Background",
+			"value": "Mint"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "1"
+		}, {
+			"trait_type": "Back",
+			"value": "On"
+		}, {
+			"trait_type": "Belly",
+			"value": "Off"
+		}, {
+			"trait_type": "Pattern",
+			"value": "Off"
+		}, {
+			"trait_type": "Details",
+			"value": "Off"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeiengiaafucteksgzjocrcdp6ttoxf3f4bw7qfs54ghxwdnpsclxg4/8123.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeiacnwsbqnsxmomamoxw2tggpo4q5v4sjkosqkrbkgcziek3caqlv4/8123.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 423
+			},
+			"moonrank": {
+				"rank": 1049,
+				"absolute_rarity": 1049,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-05-16T03:23:50.921Z",
+			"slot": 206851268
+		},
+		"lastSalePrice": 33000000000,
+		"lastSalePriceWithFees": 33000000000,
+		"createdAt": "2023-07-22T13:42:13.894Z",
+		"updatedAt": "2023-07-22T13:42:13.894Z"
+	}, {
+		"mintAddress": "FkdewC7MFkZbVWFwNXeqWnawSPBLNfoyGfZ9fqsmC4iE",
+		"supply": 1,
+		"title": "Claynosaurz #8158",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 69,
+		"escrowPubkey": "E8uaw7by54LPVmxs6nJ9rN22FdqoCGZV47nr6hAgxwVc",
+		"owner": "FL53P6diSX2ZdJc5pTkgj7J6HJxc598fHwzptwXLMfqP",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "GN8NMKsM2YgTtFyJjacMjWkrBEHxtexy4soewvekBdmf",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeichgvh4i7zkk2jg6ugjsbvh7y2nprdbdzullszkr3gqxfziknpzmy/8157.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Ankylo"
+		}, {
+			"trait_type": "Skin",
+			"value": "Toxic"
+		}, {
+			"trait_type": "Color",
+			"value": "Amethyst"
+		}, {
+			"trait_type": "Motion",
+			"value": "Slow Walk"
+		}, {
+			"trait_type": "Mood",
+			"value": "Smug"
+		}, {
+			"trait_type": "Background",
+			"value": "Mint"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "3"
+		}, {
+			"trait_type": "Back",
+			"value": "On"
+		}, {
+			"trait_type": "Belly",
+			"value": "On"
+		}, {
+			"trait_type": "Pattern",
+			"value": "Off"
+		}, {
+			"trait_type": "Details",
+			"value": "On"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeichgvh4i7zkk2jg6ugjsbvh7y2nprdbdzullszkr3gqxfziknpzmy/8157.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeifsb5liue3pui3ptt24debz5h2hf4kwmul7rfiayxo4hupsncovkm/8157.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 1516
+			},
+			"moonrank": {
+				"rank": 928,
+				"absolute_rarity": 928,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-07-19T20:57:13.789Z",
+			"slot": 206825368
+		},
+		"lastSalePrice": 55748000000,
+		"lastSalePriceWithFees": 56000000000,
+		"createdAt": "2023-07-22T10:33:20.546Z",
+		"updatedAt": "2023-07-22T10:33:20.546Z"
+	}, {
+		"mintAddress": "FiGcmaw9FGsWtArb9PjsLEwbrtRLwKFyJknvpCdGkay3",
+		"supply": 1,
+		"title": "Claynosaurz #2816",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 66.9,
+		"escrowPubkey": "53K1yz1ihoyX3bEoQXrqEbuCQPxKqwwGwHpLJBwYuMha",
+		"owner": "7NjYvd97pogzhswj4aefeC2RX86ndt8cmuPPccGa4cs5",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "3hMzXmY4DXVXL1NwvNPeqTSjkHGDoo8ZDURbDk5WVj8k",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeiet5pvr365djzraa4nc7f7ppzc6jszkekx56qpwekw334lmngpgda/2815.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Ankylo"
+		}, {
+			"trait_type": "Skin",
+			"value": "Amazonia"
+		}, {
+			"trait_type": "Color",
+			"value": "Mist"
+		}, {
+			"trait_type": "Motion",
+			"value": "Idle"
+		}, {
+			"trait_type": "Mood",
+			"value": "Bored"
+		}, {
+			"trait_type": "Background",
+			"value": "Mint"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "2"
+		}, {
+			"trait_type": "Back",
+			"value": "On"
+		}, {
+			"trait_type": "Belly",
+			"value": "Off"
+		}, {
+			"trait_type": "Pattern",
+			"value": "Off"
+		}, {
+			"trait_type": "Details",
+			"value": "On"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeiet5pvr365djzraa4nc7f7ppzc6jszkekx56qpwekw334lmngpgda/2815.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeiaklro52es7vynerknf4l2iwy5ttad5dr6xl3qhb73ua32cjx4dvi/2815.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 1276
+			},
+			"moonrank": {
+				"rank": 2009,
+				"absolute_rarity": 2009,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-06-22T01:06:21.577Z",
+			"slot": 206597291
+		},
+		"lastSalePrice": 53166426863,
+		"lastSalePriceWithFees": 56356412474,
+		"createdAt": "2023-07-21T06:25:12.330Z",
+		"updatedAt": "2023-07-21T06:25:12.330Z"
+	}, {
+		"mintAddress": "FHvPJLgsUCkCq5vPaEPEUdx8GFd24xFX8hEHoAgoHwqD",
+		"supply": 1,
+		"title": "Claynosaurz #8982",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 105,
+		"escrowPubkey": "AazVHg9KRLBuvVCqMsXb6Bp3qBW8hubDB9wThPCheb1S",
+		"owner": "9HzAhxS3PHZUHynKDUQQKWKAYtW8bnz2QzenWWjb8HYi",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "9AZsQzACPNzZWb2GzxW22Baix1rNe151XVcbo6PXf8dd",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeia4wyythcoru3hy27a7qsqn3ikqecwlspwxk2dsisf2z7ljus6tte/8981.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Rex"
+		}, {
+			"trait_type": "Skin",
+			"value": "Apres"
+		}, {
+			"trait_type": "Color",
+			"value": "Volcanic"
+		}, {
+			"trait_type": "Motion",
+			"value": "Run"
+		}, {
+			"trait_type": "Mood",
+			"value": "Happy"
+		}, {
+			"trait_type": "Background",
+			"value": "Salmon"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "1"
+		}, {
+			"trait_type": "Back",
+			"value": "Off"
+		}, {
+			"trait_type": "Belly",
+			"value": "Off"
+		}, {
+			"trait_type": "Pattern",
+			"value": "Off"
+		}, {
+			"trait_type": "Details",
+			"value": "On"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeia4wyythcoru3hy27a7qsqn3ikqecwlspwxk2dsisf2z7ljus6tte/8981.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeibp6zge2dig222yzlrdkm6g2lcogdkgs2iirfedzdboujwla6ngr4/8981.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 359
+			},
+			"moonrank": {
+				"rank": 999,
+				"absolute_rarity": 999,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-06-27T17:15:00.657Z",
+			"slot": 206736352
+		},
+		"lastSalePrice": 50125000000,
+		"lastSalePriceWithFees": 50000000000,
+		"createdAt": "2023-07-21T23:41:19.632Z",
+		"updatedAt": "2023-07-21T23:41:19.632Z"
+	}, {
+		"mintAddress": "FgqYbFWj1qfswJC4ATguHbWykMsW8FVHwBX5t2LNmm7t",
+		"supply": 1,
+		"title": "Claynosaurz #4955",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 75.69,
+		"escrowPubkey": "4gs9MKQYt17G5im31CxUtNErEJg1Egq1RMSi8s9TEwhP",
+		"owner": "FgFhRLjgVhYmHzKrZGFDAGVGoQDN971YWEAcLrChy6pE",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "6wGMCNrU3Vw3aHCZ83Zy7ndp5xqXdaxrapoqBhEAtws",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeicbfabdk3ogn73z6hvoiyheffgl3hf6a3hbjyo4x33tho7wpbnmi4/4954.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Rex"
+		}, {
+			"trait_type": "Skin",
+			"value": "Savanna"
+		}, {
+			"trait_type": "Color",
+			"value": "Aqua"
+		}, {
+			"trait_type": "Motion",
+			"value": "Walk"
+		}, {
+			"trait_type": "Mood",
+			"value": "Happy"
+		}, {
+			"trait_type": "Background",
+			"value": "Sky"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "1"
+		}, {
+			"trait_type": "Back",
+			"value": "On"
+		}, {
+			"trait_type": "Belly",
+			"value": "Off"
+		}, {
+			"trait_type": "Pattern",
+			"value": "Off"
+		}, {
+			"trait_type": "Details",
+			"value": "Off"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeicbfabdk3ogn73z6hvoiyheffgl3hf6a3hbjyo4x33tho7wpbnmi4/4954.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeif2sb3yhb6juqd3nhgeotkt5ibwoav2uwubzm7swnekvzjvkhagly/4954.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 8313
+			},
+			"moonrank": {
+				"rank": 8941,
+				"absolute_rarity": 8941,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-07-06T19:02:25.895Z",
+			"slot": 206588452
+		},
+		"lastSalePrice": 83903939360,
+		"lastSalePriceWithFees": 88937491960,
+		"createdAt": "2023-07-21T05:20:18.205Z",
+		"updatedAt": "2023-07-21T05:20:18.205Z"
+	}, {
+		"mintAddress": "FEq34KwVpUj86C8LBsQHt1PXX1TY26qLn1Hb8owwa7J2",
+		"supply": 1,
+		"title": "Claynosaurz #3344",
+		"primarySaleHappened": true,
+		"updateAuthority": "B7B2g3WbdZMDV3YcDGRGhEt5KyWqDJZFwRR8zpWVEkUF",
+		"onChainCollection": {
+			"key": "6mszaj17KSfVqADrQj3o4W3zoLMTykgmV37W4QadCczK",
+			"verified": 1,
+			"data": {
+				"name": "Claynosaurz",
+				"image": "https://nftstorage.link/ipfs/bafybeiese3bgyfewt2r3dxvgups2blc3rwh2utvidirxgxq527mhcv3ydy",
+				"description": "Claynosaurz is a collection of 10,000 3D animated NFTs."
+			}
+		},
+		"sellerFeeBasisPoints": 500,
+		"creators": [{
+			"address": "AoebZtN5iKpVyUBc82aouWhugVknLzjUmEEUezxviYNo",
+			"verified": 1,
+			"share": 0
+		}, {
+			"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT",
+			"verified": 0,
+			"share": 100
+		}],
+		"price": 65,
+		"escrowPubkey": "67vtrBLMcweFH6xaUKyBxL9MmYAQ4s76ScPFuERw2hcT",
+		"owner": "9wHEy9EjdeWZSFqj3jvsEkFCXjw4eQinPHXCsRfWvwRu",
+		"v2": {
+			"auctionHouseKey": "E8cU1WiRWjanGxmn96ewBgk9vPTcL6AEZ1t6F6fkgUWe",
+			"sellerReferral": "autMW8SgBkVYeBgqYiTuJZnkvDZMVU2MHJh9Jh7CSQ2",
+			"expiry": -1
+		},
+		"id": "E7bWA2716vVBzJvboQRs2MiaLcKPyijWXZUPJH2vzg6T",
+		"tokenDelegateValid": false,
+		"isFrozen": true,
+		"tokenStandard": 5,
+		"mip1State": 0,
+		"img": "https://nftstorage.link/ipfs/bafybeianzxl2krizmk2qqkihnttcexh7fxk6stuv64ehdxojxmsscrupw4/3343.gif",
+		"attributes": [{
+			"trait_type": "Species",
+			"value": "Rex"
+		}, {
+			"trait_type": "Skin",
+			"value": "Jurassic"
+		}, {
+			"trait_type": "Color",
+			"value": "Volcanic"
+		}, {
+			"trait_type": "Motion",
+			"value": "Run"
+		}, {
+			"trait_type": "Mood",
+			"value": "Smug"
+		}, {
+			"trait_type": "Background",
+			"value": "Salmon"
+		}, {
+			"trait_type": "Layer Count",
+			"value": "2"
+		}, {
+			"trait_type": "Back",
+			"value": "Off"
+		}, {
+			"trait_type": "Belly",
+			"value": "On"
+		}, {
+			"trait_type": "Pattern",
+			"value": "Off"
+		}, {
+			"trait_type": "Details",
+			"value": "On"
+		}],
+		"properties": {
+			"files": [{
+				"uri": "https://nftstorage.link/ipfs/bafybeianzxl2krizmk2qqkihnttcexh7fxk6stuv64ehdxojxmsscrupw4/3343.gif",
+				"type": "image/gif"
+			}, {
+				"uri": "https://nftstorage.link/ipfs/bafybeih2i3k3cnajssgmgilk2nnqirte66wsod6shjhl7eoktxd3tqwr4a/3343.png",
+				"type": "image/png"
+			}],
+			"category": "image",
+			"creators": [{
+				"share": 100,
+				"address": "36tfiBtaDGjAMKd6smPacHQhe4MXycLL6f9ww9CD1naT"
+			}]
+		},
+		"propertyCategory": "image",
+		"externalURL": "https://twitter.com/Claynosaurz",
+		"content": "Claynosaurz is a collection of 10,000 3D animated NFTs. Helmed by a team of leading animation and game industry artists, Claynosaurz aims to rewrite the narrative on how successful IP can be built out of web3. With massive potential for scaling, the Genesis collection is an all access pass to our Universe.",
+		"collectionName": "claynosaurz",
+		"collectionTitle": "Claynosaurz",
+		"isTradeable": true,
+		"rarity": {
+			"howrare": {
+				"rank": 2831
+			},
+			"moonrank": {
+				"rank": 2713,
+				"absolute_rarity": 2713,
+				"crawl": {}
+			}
+		},
+		"listingType": "M2",
+		"listingUpdatedAt": {
+			"updatedAt": "2023-05-30T15:56:08.722Z",
+			"slot": 206624361
+		},
+		"lastSalePrice": 55000000000,
+		"lastSalePriceWithFees": 58300000000,
+		"createdAt": "2023-07-21T09:45:08.306Z",
+		"updatedAt": "2023-07-21T09:45:08.306Z"
+	}],
+	"nextCursor": "FEq34KwVpUj86C8LBsQHt1PXX1TY26qLn1Hb8owwa7J2"
+}
