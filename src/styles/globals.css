@@ -5,8 +5,10 @@
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+  --background-end-rgb: 214, 219, 220;
 }
+
+
 
 @media (prefers-color-scheme: dark) {
   :root {
@@ -24,4 +26,38 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+}
+
+
+.skeleton-loading{
+  opacity: 0.8;
+  animation: skeleton-animation 1s linear infinite alternate;
+}
+
+.nft-grid-item{
+    height: 90%;
+    border: 3px solid burlywood;
+    box-shadow: 1px 1px 1px 1px #00000099;
+    position: relative;
+}
+
+.nft-grid-item__title, .nft-grid-item__price{
+  position: absolute;
+  bottom: 0;
+  color: black;
+  background: #ffffff99;
+  padding: 1%;
+}
+
+.nft-grid-item__price {
+  right: 0;
+}
+
+@keyframes skeleton-animation {
+  0% {
+    background-color: hsl(200, 20%, 10%);
+  }
+  100% {
+    background-color: hsl(200, 20%, 95%);
+  }
 }
