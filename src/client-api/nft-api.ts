@@ -6,16 +6,12 @@ function generateUrl() {
 }
 
 function handleApiCall(url: string) {
-  return fetch(url)
-    .then(async (response) => {
-      if (!response.ok) {
-        return null;
-      }
-      return response.json();
-    })
-    .then((data) => {
-      return data;
-    });
+  return fetch(url).then(async (response) => {
+    if (!response.ok) {
+      return null;
+    }
+    return response.json();
+  });
 }
 
 export function getNftCollections(page: number) {
