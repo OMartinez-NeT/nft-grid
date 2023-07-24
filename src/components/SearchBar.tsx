@@ -8,7 +8,7 @@ export default function SearchBar() {
       <input
         type="text"
         className="text-gray-700 p-3"
-        placeholder="Search"
+        placeholder="Search NFTS"
         value={searchText}
         onChange={(e) => setSearchText(e.target.value)}
       />

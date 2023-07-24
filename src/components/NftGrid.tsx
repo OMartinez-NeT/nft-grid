@@ -75,7 +75,7 @@ export default function NftGrid({
   if (status === 'success' && items.length === 0 && !isFetching) {
     return (
       <div className="flex justify-center items-center">
-        <h1 className="text-2xl">No items found</h1>
+        <h1 className="text-2xl text-zinc-950">No items found</h1>
       </div>
     );
   }
@@ -127,11 +127,9 @@ export default function NftGrid({
                         return (
                           <div
                             key={key}
+                            className="flex justify-evenly "
                             style={{
                               ...style,
-                              display: 'flex',
-                              justifyContent: 'space-evenly',
-                              alignContent: 'center',
                             }}>
                             {itemIndexes.map((itemIndex) => (
                               <NftItem key={itemIndex} nft={items[itemIndex]} />

@@ -8,8 +8,6 @@
   --background-end-rgb: 214, 219, 220;
 }
 
-
-
 @media (prefers-color-scheme: dark) {
   :root {
     --foreground-rgb: 255, 255, 255;
@@ -20,12 +18,7 @@
 
 body {
   color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  background: rgb(222 222 222);
 }
 
 
@@ -35,10 +28,11 @@ body {
 }
 
 .nft-grid-item{
-    height: 90%;
-    border: 3px solid burlywood;
-    box-shadow: 1px 1px 1px 1px #00000099;
-    position: relative;
+  height: 90%;
+  border: 3px solid burlywood;
+  box-shadow: 2px 2px 5px 4px #00000099;
+  position: relative;
+  border-radius: 4px;
 }
 
 .nft-grid-item__title, .nft-grid-item__price{

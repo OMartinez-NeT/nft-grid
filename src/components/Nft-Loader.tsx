@@ -3,7 +3,7 @@ import {MagnifyingGlass} from 'react-loader-spinner';
 function NftLoader() {
   return (
     <MagnifyingGlass
-      color="#FFFFFF"
+      color="#000000"
       ariaLabel="loading"
       wrapperStyle={{
         display: 'flex',

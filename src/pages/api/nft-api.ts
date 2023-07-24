@@ -1,7 +1,6 @@
 const BASE_API_URL = 'https://api-mainnet.magiceden.io';
 const entriesPerPage = 20;
-const PATH = `/idxv2/getListedNftsByCollectionSymbol?collectionSymbol=theheist&agg=3&limit=${entriesPerPage}`;
-
+const PATH = `/idxv2/getListedNftsByCollectionSymbol?collectionSymbol=okay_bears&agg=3&limit=${entriesPerPage}`;
 function generateUrl() {
   return BASE_API_URL + PATH;
 }
