@@ -1,6 +1,6 @@
 import {useState} from 'react';
 import {useInfiniteQuery} from 'react-query';
-import {getNftCollections} from '@/pages/api/nft-api';
+import {getNftCollections} from '@/client-api/nft-api';
 import {Inter} from 'next/font/google';
 
 import SearchBar from '@/components/SearchBar';
