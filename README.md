@@ -4,6 +4,10 @@ This is a the project for the Front End coding assignment
 
 Build a page to display NFTs on Solana.
 
+## Prerequisites to run the project
+
+- Node v18.17.0
+
 ## Run the project
 
 1.  Install dependencies:
